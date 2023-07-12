@@ -1,8 +1,7 @@
 # DeepLearningNLP
-Implementation  of  Machine learning problems using advance techniques of NLP with Deep Learning.
+Implementation  of  Machine learning problems using advanced techniques of NLP with Deep Learning.
 
 
-ChatGPT
 NLP Codes with TensorFlow and Trax
 This repository contains a collection of Natural Language Processing (NLP) codes implemented using the TensorFlow and Trax frameworks. The codes are built using deep learning techniques to solve various NLP tasks.
 
