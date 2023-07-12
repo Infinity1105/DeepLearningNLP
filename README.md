@@ -13,15 +13,12 @@ Models
 Contributing
 License
 Introduction
-In this repository, you will find Python code examples that demonstrate the application of deep learning techniques for NLP tasks. TensorFlow and Trax are two popular frameworks used for building deep learning models. The codes cover a wide range of NLP tasks, including:
+In this repository, you will find Python code examples to solve various real-world problems using deep learning techniques for NLP tasks. TensorFlow and Trax are two popular frameworks used for building deep learning models. The codes cover a wide range of NLP tasks, including:
 
-Text classification
+
 Sentiment analysis
 Named Entity Recognition (NER)
-Machine translation
-Text generation
-Question answering
-Language modelling
+
 Each code example is well-documented and includes instructions on how to use it effectively.
 
 Installation
@@ -33,7 +30,7 @@ Copy code
 git clone https://github.com/Infinity1105/DeepLearningNLP
 
 Usage
-Each code example in this repository is self-contained and can be run independently. Navigate to the respective directory for the NLP task you are interested in.
+Each code example in this repository is self-contained and can be run independently. You can just navigate to the respective directory for the NLP task you are interested in.
 
 Before running the codes, make sure you have downloaded any required datasets or pre-trained models mentioned in the instructions.
 
