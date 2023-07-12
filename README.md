@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 bash<br>
 Copy code<br>
 ```
-$git clone https://github.com/Infinity1105/DeepLearningNLP<br>
+$git clone https://github.com/Infinity1105/DeepLearningNLP
 ```
 
 
