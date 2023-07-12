@@ -16,17 +16,17 @@ Introduction
 In this repository, you will find Python code examples to solve various real-world problems using deep learning techniques for NLP tasks. TensorFlow and Trax are two popular frameworks used for building deep learning models. The codes cover a wide range of NLP tasks, including:
 
 
-Sentiment analysis
-Named Entity Recognition (NER)
+1.Sentiment analysis<br>
+Named Entity Recognition (NER)<br>
 
 Each code example is well-documented and includes instructions on how to use it effectively.
 
-Installation
+# Installation
 You need to install the necessary dependencies to run the NLP codes in this repository.
 
 Clone this repository to your local machine:
 bash
-Copy code
+Copy code<br>
 git clone https://github.com/Infinity1105/DeepLearningNLP
 
 Usage
