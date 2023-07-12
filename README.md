@@ -20,9 +20,13 @@ Each code example is well-documented and includes instructions on how to use it 
 You need to install the necessary dependencies to run the NLP codes in this repository.
 
 Clone this repository to your local machine:
-bash
+bash<br>
 Copy code<br>
-git clone https://github.com/Infinity1105/DeepLearningNLP<br>
+```
+$git clone https://github.com/Infinity1105/DeepLearningNLP<br>
+```
+
+
 
 # Usage
 Each code example in this repository is self-contained and can be run independently. You can just navigate to the respective directory for the NLP task you are interested in.<br>
