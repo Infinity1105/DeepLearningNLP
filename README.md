@@ -21,24 +21,24 @@ Named Entity Recognition (NER)
 Machine translation
 Text generation
 Question answering
-Language modeling
+Language modelling
 Each code example is well-documented and includes instructions on how to use it effectively.
 
 Installation
-To run the NLP codes in this repository, you need to install the necessary dependencies. Follow the steps below to set up your environment:
+You need to install the necessary dependencies to run the NLP codes in this repository.
 
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/nlp-tensorflow-trax.git
+git clone https://github.com/Infinity1105/DeepLearningNLP
 
 Usage
-Each code example in this repository is self-contained and can be run independently. Navigate to the respective directory for the NLP task you are interested in and follow the instructions provided in the code's README file.
+Each code example in this repository is self-contained and can be run independently. Navigate to the respective directory for the NLP task you are interested in.
 
 Before running the codes, make sure you have downloaded any required datasets or pre-trained models mentioned in the instructions.
 
 Models
-The NLP codes in this repository utilize various deep learning models provided by TensorFlow and Trax. Some popular models include:
+The NLP codes in this repository utilize various deep-learning models provided by TensorFlow and Trax. Some popular models include:
 
 LSTM (Long Short-Term Memory)
 GRU (Gated Recurrent Unit)
