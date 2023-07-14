@@ -40,3 +40,6 @@ The NLP codes in this repository utilize various deep-learning models provided b
 2. GRU (Gated Recurrent Unit)<br>
 
 The models are implemented and configured within the code examples, and you can modify them as per your requirements.
+
+# Disclaimer
+Some models are computationally heavy and may take time (Sometimes hours) to  complete. 
